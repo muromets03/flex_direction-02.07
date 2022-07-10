@@ -1,0 +1,26 @@
+*{
+text-align: center;
+margin: auto;
+
+}
+
+.flex-container {
+
+  display: flex;
+  width: 50vw;
+}
+.flex-child {
+  width: 50vw;
+}
+
+.block__content {
+  background-color: #18b5a4;
+}
+
+button {
+  width: 12em;
+  height: 3em;
+  white-space: nowrap;
+  background-color: #4fc2f8;
+  border-color: #fff;
+}
